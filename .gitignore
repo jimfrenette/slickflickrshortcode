@@ -30,7 +30,12 @@ nbproject
 **/node_modules
 **/cache
 
-# wordpress twentyseventeen theme folders and files that are not applicable to this repo
+# wordpress twenty-seventeen-sass folders and files
+# maintained in https://github.com/jimfrenette/twentyseventeen-sass
+src/sass/base
+
+# wordpress twentyseventeen theme folders and files
+# that are not being maintained in this repo
 assets
 inc
 template-parts
