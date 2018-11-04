@@ -1,6 +1,6 @@
-# Source Code for [How To Create a WordPress Shortcode for flickr Albums](https://jimfrenette.com/2018/11/how-to-create-wo…or-flickr-albums/)
+# Source Code for [How To Create a WordPress Shortcode for flickr Albums](https://jimfrenette.com/2018/11/how-to-create-wordpress-shortcode-for-flickr-albums/)
 
-Read the [blog post](https://jimfrenette.com/2018/11/how-to-create-wo…or-flickr-albums/) for detailed instructions.
+Read the [blog post](https://jimfrenette.com/2018/11/how-to-create-wordpress-shortcode-for-flickr-albums/) for detailed instructions.
 
 ## Dev Build
 ```
